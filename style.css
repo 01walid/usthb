@@ -1,6 +1,7 @@
 
 body {
     background-color: #2980b9;
+    font-family: 'DejaVu Sans','Droid Sans',sans-serif;
 }
 
 .content {
@@ -9,4 +10,21 @@ body {
     width: 80%;
     margin: 0 auto;
     border-radius: 5px;
+    border-color: rgb(50%,80%,80%);
+    border-width: 3px;
+}
+p:first-of-type{
+    font-size: smaller;
+    color: rgb(100%,20%,20%);
+    background-color: rgb(50%,70%,70%);
+    opacity: 0.7;
+    width: 25%;
+    border: dotted thin grey;
+    text-align: center;
+}
+li {
+    
+}
+em, .content li {
+    font-family: 'DejaVu Sans Mono', 'Droid Sans Mono',monospace;
 }
