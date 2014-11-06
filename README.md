@@ -10,3 +10,10 @@ me pull requests.
 * @FM94 (Fayçal Mitidji)
 
 This is just a sample git repository. You can send Pull Requests or Isssues throw Github's interface.
+
+#مشروعGit بسيط
+هذا مستودع Git بسيط
+
+#كيف اشارك
+
+فقط انسخ المستودع، قم بالتغييرات  و ارسل طلب  اضافة
